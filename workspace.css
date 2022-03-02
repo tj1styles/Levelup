@@ -43,6 +43,7 @@
  .ugh{
    font-size: 15px;
    cursor: pointer;
+   transition: all 0.5s linear;
  }
  .ugh2{
    font-size: 30px;
@@ -55,7 +56,8 @@
  }
  .ugh:hover{
    color: rgb(255,135,88) !important;
- 
+   transform: translateX(5px);
+   letter-spacing: 2px;
  }
  
  .sss{
@@ -165,4 +167,7 @@
    height: 80vh;
    background-position: center;
    background-size: cover;
+ }
+ .wo{ 
+ border: none;
  }

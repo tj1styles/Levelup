@@ -136,6 +136,15 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.space-col:hover{
+    background-color:rgb(255,135,88) ;
+}
+.space-col-2:hover{
+    background-color: rgb(255,135,88);
+}
+.space-col-3:hover{
+    background-color: rgb(255,135,88);
+}
 .space-col-2{
     background-image: url(./coworking-2.jpg);
     background-repeat: no-repeat;
