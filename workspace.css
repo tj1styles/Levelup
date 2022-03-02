@@ -1,0 +1,162 @@
+.banner{
+   
+    background: linear-gradient(rgba(0, 0, 0, 0.719),rgba(0, 0, 0, 0.719)),url(./lvlupimg/page-banner-bg-1.jpg);
+ }
+ .bef-nav{
+    background-color: rgb(25,46,64);
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+ .feet{
+    background-color: rgb(25,46,64);
+    padding-top: 100px;
+    padding-bottom: 10px;
+    
+ }
+ .bluh{
+   color: rgb(255,135,88);
+   border:0.2px rgb(83,98,111) solid ;
+   border-radius: 15%;
+ background-color: rgb(25,46,64);
+ padding: 10px 12px;
+ transition: all 0.5s linear;
+ 
+ }
+ .bluh:hover{
+   color: white;
+   transform: translateY(-4px);
+   border-radius: 15%;
+ background-color: rgb(255,135,88);
+ padding: 10px 12px;
+ }
+ .bleh{
+   
+ padding-top: 10px;
+ 
+ }
+ .bp{
+   
+ padding-top: 90px;
+ padding-bottom: 90px;
+ 
+ }
+ .ugh{
+   font-size: 15px;
+   cursor: pointer;
+ }
+ .ugh2{
+   font-size: 30px;
+   color: black !important;
+   font-weight: bold;
+ 
+ }
+ .ugh1{
+   font-size: 15px;
+ }
+ .ugh:hover{
+   color: rgb(255,135,88) !important;
+ 
+ }
+ 
+ .sss{
+   color: rgb(255,135,88) !important;
+ }
+ .sn{
+   background-color: rgb(255,135,88) !important;
+   color: white !important;
+   padding: 15px 15px;
+   margin-top: 50px;
+   margin-left: 360px;
+   letter-spacing: 3px;
+   transition: all 0.5s linear;
+ }
+ .sn:hover{
+   background-color: rgb(128,0,128) !important;
+   color: white !important;
+   padding: 15px 15px;
+   margin-top: 50px;
+   margin-left: 360px;
+   letter-spacing: 3px;
+   transform: scaleX(-10px);
+ }
+ .cu{
+ font-size: 55px;
+ font-weight: bold;
+ }
+ .coin{
+ border-radius: 50%;
+ padding: 10px;
+ width: 60px;
+ }
+ .form-control{
+    border: rgb(202, 202, 202);
+ 
+  
+ }
+ .scale{
+   color: white;
+   transition: all 0.5s linear;
+ }
+ .scale:hover{
+   color: rgb(255,135,88);
+   transform: scaleY(2px);
+ }
+ .sus{
+   color: white;
+   transition: all 0.5s linear;
+   border: 1px solid white;
+   border-radius: 50%;
+   padding: 10px 12px;
+   margin-left: 10px;
+ }
+ .sus:hover{
+   background-color: rgb(255,135,88);
+   transform: translateY(-3px);
+   border: none;
+   border-radius: 50%;
+ }
+ .com{
+   border-bottom: 1px solid grey;
+   padding-bottom: 40px;
+ }
+ .sars{
+  color: rgb(255,135,88);
+  font-weight: bold;
+ }
+ .sars:hover{
+  color: white;
+  font-weight: bold;
+ 
+ }
+ .bor{
+   border-top: 1px solid grey;
+ padding-top: 30px;
+ font-size: 14px;
+ 
+ }
+ .sp1{
+   
+ padding-left: 95px;
+ padding-right: 400px;
+ /* padding-top: 500px; */
+ 
+ }
+ .sp2{
+   
+  color:rgb(255,135,88) ;
+  padding-left: 220px;
+ 
+ font-size: 14px;
+ }
+ .so1{
+   padding-left: 0px;
+ 
+ }
+ .pur{
+ background-color: rgb(111,24,178);  
+ 
+ }
+ .slash{
+ color: rgb(255,135,88);  
+ 
+ } 
