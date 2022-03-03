@@ -160,3 +160,9 @@
  color: rgb(255,135,88);  
  
  } 
+ .bg-pur{ 
+   background-image: url(./work-2.jpg);
+   height: 80vh;
+   background-position: center;
+   background-size: cover;
+ }
