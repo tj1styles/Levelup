@@ -1,0 +1,426 @@
+.navbar{
+    background-color: white;
+}
+.nav-link{
+    color: black !important;
+    font-weight: 700px !important;
+    padding-left: 15px !important;
+    font-size: 17px;
+    padding-top: 10px;
+}
+.nav-link:hover{
+    color: rgb(255,135,88) !important;
+    font-weight: 700px !important;
+    padding-left: 15px !important;
+    font-size: 17px;
+    padding-top: 10px;
+    border-bottom: 2px solid rgb(255,135,88);
+}
+.special{
+    background-color: white;
+    border: 2px solid rgb(218, 56, 218);
+    font-size: 15px;
+    padding: 11px 23px;
+    border-radius: 6px;
+    color: rgb(218, 56, 218);
+    letter-spacing: 2px;
+}
+.special:hover{
+    background-color: rgb(255,135,88);
+    border: 2px solid rgb(255,135,88);
+    font-size: 18px;
+    padding: 11px 23px;
+    border-radius: 6px;
+    color: white;
+    letter-spacing: 1px;
+    transition: all 1s linear;
+}
+.special-1{
+    background: linear-gradient(rgba(255,135,88,0.5), rgba(255,135,88,0.5));
+    color: rgb(255,135,88);
+    padding: 11px 23px;
+    border-radius: 6px;
+    font-size: 15px;
+}
+.special-1:hover{
+    background-color: rgb(255,135,88);
+    color:white;
+    padding: 11px 23px;
+    border-radius: 6px;
+    font-size: 15px;
+    transition: all 1s linear;
+}
+.fa-user{
+    font-size: 15px;
+}
+.co-working{
+    background-image: url(./banner-shape-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+}
+.head-1{
+    font-size: 70px;
+    font-weight: 700;
+}
+.special-2{
+    background-color: rgb(255,135,88);
+    padding: 8px;
+    color: white;
+    font-weight: 700;
+}
+.special-2:hover{
+    background-color: darkblue;
+    padding: 8px;
+    color: white;
+    font-weight: 700;
+}
+.work{
+    /* border: 1px solid grey; */
+    border-radius: 5px;
+    position:relative;
+}
+.search-bar{
+    border: none;
+    padding-left: 19px;
+    font-size: 18px;
+    width: 100%;
+}
+.search-bar:focus{
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+.yay{
+    color: rgb(255,135,88);
+    position: absolute;
+    top: 28px;
+}
+.yay-2{
+    border-right: 1px solid grey;
+}
+.rr{
+    border: 1px solid grey;
+}
+.img-1{
+    border: 10px solid white;
+    border-radius: 20px;
+}
+.creative{
+    background: linear-gradient(rgba(255,135,88,0.7), rgba(255,135,88,0.7)), url(./bg-1.jpg); 
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.creative-card:hover{
+    transform: translateY(-50px);
+    transition: all 1s ease;
+}
+.creative-head{
+    font-size: 55px;
+    font-weight: 700;
+}
+.choose{
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.space{
+    color: rgb(255,135,88);
+}
+.space-head{
+    font-size: 50px;
+    font-weight: 700;
+}
+.space-col{
+    background-image: url(./coworking-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.space-col-2{
+    background-image: url(./coworking-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.space-col-3{
+    background-image: url(./coworking-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.dope{
+    color: white;
+    background: linear-gradient(rgba(29,49,66,0.7), rgba(29,49,66,1));
+    padding: 17px;
+    border-radius: 9px;
+    font-size: 30px;
+    position: absolute;
+    bottom: 2px;
+}
+.team{
+    background-color: rgb(111,25,178);
+}
+.super{
+    font-size: 30px;
+}
+.money{
+    color: rgb(255,135,88);
+}
+.month{
+    font-size: 17px;
+}
+.member-dividend{
+    border-bottom: 1px solid gray;
+}
+.book{
+    background-color: rgb(255,135,88);
+    color: white;
+    padding: 12px 20px;
+}
+.book:hover{
+    background-color: white;
+    color: blue;
+    padding: 12px 20px;
+}
+.welcome{
+    font-weight: 800;
+}
+.welcome-card{
+    background-color: rgb(29,49,66);
+    border-radius: 9px;
+}
+
+.founder{
+    color: rgb(255,135,88);
+}
+.founder-card:hover{
+      transform: translateY(-25px);
+      transition: 1s all ease;
+}
+.office-div{
+    border: 3px solid rgb(255,135,88);
+    transform: translateY(-440px) translateX(56px);
+    padding-left: 150px;
+}
+.office-div-2{
+    border: 3px solid rgb(255,135,88);
+    transform: translateY(-440px) translateX(150px);
+    padding-left: 150px;
+}
+.office-div-3{
+    border: 3px solid rgb(255,135,88);
+    transform: translateY(-440px) translateX(250px);
+    padding-left: 150px;
+}
+
+.Multi-office{
+    background: linear-gradient(rgba(29,49,66,0.7), rgba(29,49,66,1)), url(./work-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+}
+
+.fa-star{
+    color:  rgb(255,135,88);
+    font-size: 20px;
+}
+.ratings{
+    font-size: 21px;
+    font-weight: 600;
+}
+.read-review{
+    background-color:  rgb(255,135,88);
+    color: white;
+    padding: 12px 25px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.read-review:hover{
+    background-color:  rgb(115,32,169);
+    color: white;
+    padding: 12px 25px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.arrow{
+    font-size: 40px;
+}
+.review-p{
+    font-size: 20px;
+}
+.review-p-2{
+    color: rgb(255,135,88);
+}
+.reviews-card{
+   transform: translateX(100px) translateY(-45px);
+   z-index: 1000;
+}
+.reviews-card-2{
+    position: relative;
+}
+
+.miss{
+    background: linear-gradient(rgba(115,32,169,0.9), rgba(115,32,169,0.9)), url(./subscribe-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.miss-head{
+    font-weight: 800;
+}
+.email{
+    padding: 29px 25px;
+    width: 100%;
+    border-radius: 5px;
+}
+.sign-me-up{
+    background-color: rgb(255,135,88);
+    color: white;
+    font-size: 15px;
+    padding: 18px 30px;
+    position: absolute;
+    bottom: 0px;
+    right: 225px;
+}
+.sign-me-up:hover{
+    background-color: white;
+    color: rgb(255,135,88);
+    font-size: 15px;
+    padding: 18px 30px;
+    position: absolute;
+    bottom: 0px;
+    right: 225px;
+}
+
+.blog{
+    color: rgb(255,135,88);
+}
+.blog-head{
+    font-weight: 700;
+    font-size: 54px;
+}
+.office-col{
+    position: relative;
+}
+.office{
+    background-color: rgb(255,135,88);
+    color: white;
+    padding: 7px 23px;
+    border-radius: 19px;
+    position: absolute;
+    right: 12px;
+    bottom: 200px;
+    border: none;
+}
+.office:hover{
+    background-color: rgb(29,49,66);
+    color: white;
+    padding: 7px 23px;
+    border-radius: 19px;
+    position: absolute;
+    right: 12px;
+    bottom: 200px;
+    transition: all 0.6s ease-in;
+}
+.office-2{
+    background-color: rgb(255,135,88);
+    color: white;
+    padding: 7px 23px;
+    border-radius: 19px;
+    position: absolute;
+    right: 12px;
+    bottom: 175px;
+    border: none;
+}
+.office-2:hover{
+    background-color: rgb(29,49,66);
+    color: white;
+    padding: 7px 23px;
+    border-radius: 19px;
+    position: absolute;
+    right: 12px;
+    bottom: 175px;
+    border: none;
+    transition: all 0.6s ease-in;
+}
+.office-3{
+    background-color: rgb(255,135,88);
+    color: white;
+    padding: 7px 23px;
+    border-radius: 19px;
+    position: absolute;
+    right: 12px;
+    bottom: 202px;
+    border: none;
+}
+.hurray{
+    color: rgb(255,135,88);
+}
+.read{
+    background: linear-gradient(rgba(255,135,88,0.2), rgba(255,135,88,0.2));
+    color:  rgb(255,135,88);
+    font-weight: 600;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.read:hover{
+    background-color: rgb(255,135,88);
+    color:  white;
+    font-weight: 600;
+    padding: 10px 10px;
+    border-radius: 5px;
+    transition: all 0.6s ease-in;
+}
+.footer{
+    background-color:  rgb(29,49,66);
+}
+.phone-number{
+    font-size: 22px;
+    translate: x(2px);
+}
+.phone-number:hover{
+    font-size: 22px;
+    color: rgb(255,135,88);
+}
+.fa-phone{
+    color: rgb(255,135,88);
+}
+.gmail{
+    font-size: 20px;
+}
+.fa-envelope-open{
+    color: rgb(255,135,88);
+}
+.company-head{
+    border-bottom: 1px solid grey;
+}
+.company-link{
+    color: white;
+}
+.company-link:hover{
+    color: rgb(255,135,88);
+    translate: X(2px);
+    text-decoration: none;
+    transition: all 0.8s ease;
+}
+.company-icons{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px 12px;
+}
+.company-icons:hover{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px 12px;
+    background-color:  rgb(255,135,88);
+}
+.company-special{
+    border-bottom: 1px solid grey;
+}
+.envy{
+    color: rgb(255,135,88);
+}
+.why{
+    color: rgb(255,135,88);
+}
